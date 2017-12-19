@@ -1,7 +1,7 @@
 # abisteco.github.io
 # Insipiration
 
-Avesta, da palavra pálavi p(y)stʾk/abestāg às vezes aportuguesado como **Abisteco**, faz parte das escrituras sagradas do zoroastrismo, que são os textos do Avesta e os textos do Pálavi.
+Avesta, da palavra pálavi p(y)stʾk/abestāg às vezes aportuguesado como **Abisteco**, faz parte das escrituras sagradas do zoroastrismo, que são os textos do Avesta e os textos do Pálavi. Talvez em algum tempo tenha se pensado em utilizar os preceitos universais para se moldar um componente sistêmico de alto padrão. Como falamos de números, falamos então do alfabeto do criador. Sempre se busca a perfeição e sempre se tem uma variante. É comum estarmos em meio a esta turbulência, inspiro me neste aportuguesado em criar o algoritmo de abisteco. Levará talvez minha vida toda tentando, estou certo disso, tentarei.
 
 - Construindo comunidades de boas vindas
 - Construindo uma comunidade que incentive as pessoas a usar, contribuir e evangelizar seu projeto.
