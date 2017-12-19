@@ -1,8 +1,8 @@
 {
     "name": "abisteco/abisteco.github.io",
-    "description": "Site Oficial Abisteco/Avesta",
+    "description": "Site Oficial Abisteco",
     "type": "project",
-    "keywords": ["abisteco", "avesta", "comuninity", "open-source"],
+    "keywords": ["abisteco", "avesta", "community", "open-source"],
     "license": "MIT",
     "support": {
         "issues": "https://github.com/abisteco/abisteco.github.io/issues",
@@ -17,7 +17,7 @@
         },
         {
             "name": "Abisteco - Community Development Team",
-            "homepage": "https://github.com/abisteco",
+            "homepage": "https://github.com/notafacil",
             "role": "Community Team"
         },
         {
