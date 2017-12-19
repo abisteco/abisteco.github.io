@@ -28,3 +28,4 @@ Avesta, da palavra pálavi p(y)stʾk/abestāg às vezes aportuguesado como Abist
 \|/      \ /                      \|/
  '        '                        '
 ```
+# Comece com sua documentação:
