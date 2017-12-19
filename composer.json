@@ -1,0 +1,43 @@
+{
+    "name": "abisteco/abisteco.github.io",
+    "description": "Site Oficial Abisteco/Avesta",
+    "type": "project",
+    "keywords": ["abisteco", "avesta", "comuninity", "open-source"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/abisteco/abisteco.github.io/issues",
+        "source": "https://github.com/abisteco/abisteco.github.io"
+    },
+    "homepage": "https://github.com/abisteco/abisteco.github.io",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "homepage": "http://sergiohermes.github.io",
+            "role": "Author"
+        },
+        {
+            "name": "Abisteco - Community Development Team",
+            "homepage": "https://github.com/notafacil",
+            "role": "Community Team"
+        },
+        {
+            "name": "Community",
+            "homepage": "https://github.com/abisteco/abisteco.github.io/network/master",
+            "role": "Community Working"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^5.6 || ^7.0 || ^7.1 || ^7.2"
+    },
+    "autoload": {
+      "psr-4": {
+        "Abisteco\\": "src/"
+      }
+    },
+    "extra": {
+         "zf": {
+            "module": "Abisteco"
+        }
+    }
+}
