@@ -10,3 +10,6 @@ Avesta, da palavra pálavi p(y)stʾk/abestāg às vezes aportuguesado como Abist
   - Construindo comunidades de boas vindas
   - Configurando seu projeto para o sucesso
   - Você lançou seu projeto, você está espalhando a palavra, e as pessoas estão verificando isso. Impressionante! Agora, como você consegue ficar em volta?
+
+
+> Uma comunidade acolhedora é um investimento no futuro e na reputação do seu projeto. Se o seu projeto está apenas começando as suas primeiras contribuições, comece por dar aos colaboradores adiantados uma experiência positiva, e facilite-os para que continuem voltando.
