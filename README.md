@@ -20,12 +20,39 @@ Avesta, da palavra pálavi p(y)stʾk/abestāg às vezes aportuguesado como **Abi
 > À medida que você constrói sua comunidade, considere como alguém no topo do funil (um usuário em potencial) pode, teoricamente, fazer o seu caminho para o fundo do funil (um mantenedor ativo). Seu objetivo é reduzir o atrito em cada etapa da experiência do colaborador. Quando as pessoas têm ganhos fáceis, eles se sentirão incentivados a fazer mais.
 
 ```
- |  \     U     /   Usuário        |
- |   \         /                   |
- |    \   C   /     Comunidade     |
- |     \     /                     |
- |      \ M /       Mantenedor     |
-\|/      \ /                      \|/
- '        '                        '
+                           |  \     U     /   Usuário        |
+                           |   \         /                   |
+                           |    \   C   /     Comunidade     |
+                           |     \     /                     |
+                           |      \ M /       Mantenedor     |
+                          \|/      \ /                      \|/
+                           '        '                        '
 ```
 # Comece com sua documentação:
+
+## É importante sempre começar pelo caminho certo.
+
+Indicado o [RFC6749](https://tools.ietf.org/html/rfc6749) https://tools.ietf.org/html/rfc6749 para Autenticação e Autorização em plataformas híbridas.
+
+
+## Fluxo abstrato do protocolo
+
+```
+                          +--------+                               +---------------+
+                          |        |--(A)- Authorization Request ->|   Resource    |
+                          |        |                               |     Owner     |
+                          |        |<-(B)-- Authorization Grant ---|               |
+                          |        |                               +---------------+
+                          |        |
+                          |        |                               +---------------+
+                          |        |--(C)-- Authorization Grant -->| Authorization |
+                          | Client |                               |     Server    |
+                          |        |<-(D)----- Access Token -------|               |
+                          |        |                               +---------------+
+                          |        |
+                          |        |                               +---------------+
+                          |        |--(E)----- Access Token ------>|    Resource   |
+                          |        |                               |     Server    |
+                          |        |<-(F)--- Protected Resource ---|               |
+                          +--------+                               +---------------+
+```
