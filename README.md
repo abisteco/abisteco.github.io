@@ -61,3 +61,38 @@ A Documentação é o principal artefato para o iniciado. Seja honesto, pois o m
   |        |<-(F)--- Protected Resource ---|               |
   +--------+                               +---------------+
 ```
+- [ ] Abisteco
+- [ ] Avesta
+- [ ] Domain Project -
+- [ ] Middleware Service -
+- [ ] OutBound Fixture -
+
+```
+  +--------+                                           +---------------+
+  |        |--(A)------- Authorization Grant --------->|               |
+  |        |                                           |               |
+  |        |<-(B)----------- Access Token -------------|               |
+  |        |               & Refresh Token             |               |
+  |        |                                           |               |
+  |        |                            +----------+   |               |
+  |        |--(C)---- Access Token ---->|          |   |               |
+  |        |                            |          |   |               |
+  |        |<-(D)- Protected Resource --| Resource |   | Authorization |
+  | Client |                            |  Server  |   |     Server    |
+  |        |--(E)---- Access Token ---->|          |   |               |
+  |        |                            |          |   |               |
+  |        |<-(F)- Invalid Token Error -|          |   |               |
+  |        |                            +----------+   |               |
+  |        |                                           |               |
+  |        |--(G)----------- Refresh Token ----------->|               |
+  |        |                                           |               |
+  |        |<-(H)----------- Access Token -------------|               |
+  +--------+           & Optional Refresh Token        +---------------+
+  
+  ```
+  
+- [x] Solução crômica de baixo custo.
+- [x] Processamento robusto.
+- [x] Relação atraente de custo/desempenho.
+- [x] Excelente resistência ao desgaste após termino do processo.
+- [x] Baixa sensibilidade a flutuações de custo de ligas
