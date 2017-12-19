@@ -13,3 +13,18 @@ Avesta, da palavra pálavi p(y)stʾk/abestāg às vezes aportuguesado como Abist
 
 
 > Uma comunidade acolhedora é um investimento no futuro e na reputação do seu projeto. Se o seu projeto está apenas começando as suas primeiras contribuições, comece por dar aos colaboradores adiantados uma experiência positiva, e facilite-os para que continuem voltando.
+
+## Faça as pessoas se sentir bem-vindas
+# Funil do colaborador
+
+> À medida que você constrói sua comunidade, considere como alguém no topo do funil (um usuário em potencial) pode, teoricamente, fazer o seu caminho para o fundo do funil (um mantenedor ativo). Seu objetivo é reduzir o atrito em cada etapa da experiência do colaborador. Quando as pessoas têm ganhos fáceis, eles se sentirão incentivados a fazer mais.
+
+```
+ |  \     U     /   Usuário        |
+ |   \         /                   |
+ |    \   C   /     Comunidade     |
+ |     \     /                     |
+ |      \ M /       Mantenedor     |
+\|/      \ /                      \|/
+ '        '                        '
+```
